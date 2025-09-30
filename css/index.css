@@ -1,0 +1,2852 @@
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  left: 0px;
+  min-width: 1366px;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.index .home-IO3Fu5 {
+  align-self: stretch;
+  background: linear-gradient(146deg, rgba(17, 47, 115, 1) 0%, rgba(80, 89, 188, 1) 100%);
+  height: 768px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.index .rectangle-353-NiAjMx {
+  background: linear-gradient(148deg, rgba(17, 47, 115, 1) 0%, rgba(80, 89, 188, 1) 100%), linear-gradient(0deg, rgba(217, 217, 217, 1) 0%, rgba(217, 217, 217, 1) 100%);
+  background-color: transparent;
+  height: 1002px;
+  left: calc(50.00% - 683px);
+  position: absolute;
+  top: 0px;
+  width: 1366px;
+}
+
+.index .text-NiAjMx {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 21.21527862548828px;
+  left: 50.00%;
+  position: absolute;
+  top: 147px;
+  width: 579px;
+}
+
+.index .top-xx2c2x {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10.934088706970215px;
+  position: relative;
+  width: 100%;
+}
+
+.index .um-jogo-srio-sobre-giRepp {
+  background-color: transparent;
+  height: 23.43018913269043px;
+  letter-spacing: 0.48px;
+  line-height: normal;
+  margin-top: -0.78px;
+  position: relative;
+  text-align: left;
+  width: 347.5478210449219px;
+}
+
+.index .preveno-e-informao-giRepp {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 5.76px;
+  line-height: 78.5px;
+  position: relative;
+  text-align: left;
+}
+
+.index .frame-3280-xx2c2x {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 21px;
+  position: relative;
+  width: 100%;
+}
+
+.index .button-and-link-aAOoMU {
+  background-color: transparent;
+  height: 70.43472290039062px;
+  position: relative;
+  width: 143.415283203125px;
+}
+
+.index .frame-3273-LfiM1m {
+  background-color: transparent;
+  height: 70px;
+  left: calc(50.00% - 72px);
+  position: relative;
+  top: 0px;
+  width: 143px;
+}
+
+.index .btn-fp7PBI {
+  background-color: transparent;
+  height: 70px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 143px;
+}
+
+.index .rectangle-9-Iu0XbO {
+  height: 68px;
+  left: 3px;
+  width: 136px;
+}
+
+.index .pele-1-fp7PBI {
+  aspect-ratio: 0.734694;
+  background-color: transparent;
+  height: 95px;
+  left: calc(50.00% - 38px);
+  position: absolute;
+  top: calc(50.00% - 35px);
+  width: 70px;
+}
+
+.index .voc-aprende-se-diver-aAOoMU {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  opacity: 0.8;
+  position: relative;
+  text-align: left;
+}
+
+.index .topper-menu-NiAjMx {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 32px;
+  left: calc(50.00% - 158px);
+  position: absolute;
+  top: 21px;
+}
+
+.index .frame-3279-oHKBcs {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.index .btn-unIs7G {
+  align-items: center;
+  background-color: transparent;
+  
+  border-color: var(--hawkes-blue);
+  border-radius: 34.79px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8.48611068725586px;
+  padding: 8.48611068725586px 16.97222137451172px;
+  position: relative;
+  text-decoration: none;
+}
+
+.index .nav-link {
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.index .nav-link.active {
+ 
+  border-color: var(--hawkes-blue);
+}
+
+.index .home-KOjRSb {
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -0.85px;
+  text-align: center;
+  width: fit-content;
+}
+
+.index .btn-XV2XNw {
+  align-items: center;
+  background-color: transparent;
+  border-radius: 34.79px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8.48611068725586px;
+  padding: 8.48611068725586px 16.97222137451172px;
+  position: relative;
+  text-decoration: none;
+}
+
+.index .alergias-qcdI3i {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -0.85px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.index .btn-0Stln1 {
+  align-items: center;
+  background-color: transparent;
+  border-radius: 34.79px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8.48611068725586px;
+  padding: 8.48611068725586px 16.97222137451172px;
+  position: relative;
+  text-decoration: none;
+}
+
+.index .jogo-CXaPNC {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -0.85px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.index .btn-paRxwJ {
+  align-items: center;
+  background-color: transparent;
+  border-radius: 34.79px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8.48611068725586px;
+  padding: 8.48611068725586px 16.97222137451172px;
+  position: relative;
+  text-decoration: none;
+}
+
+.index .prximos-passos-6nvUGQ {
+  margin-top: -0.85px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.index .btn-r9FBgY {
+  align-items: center;
+  background-color: transparent;
+  border-radius: 34.79px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8.48611068725586px;
+  padding: 8.48611068725586px 16.97222137451172px;
+  position: relative;
+  text-decoration: none;
+}
+
+.index .desenvolvedores-ZC9e4v {
+  margin-top: -0.85px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.index .scroll-NiAjMx {
+  height: 85px;
+  left: calc(50.00% + 490px);
+  overflow: hidden;
+  top: 660px;
+  width: 81px;
+  animation: bounceUpDown 2s ease-in-out infinite;
+}
+
+@keyframes bounceUpDown {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+}
+
+.index .scroll-vjMXFZ {
+  height: 46px;
+  left: calc(50.00% - 12px);
+  top: 0px;
+  width: 29px;
+}
+
+.index .rectangle-10-efu87k {
+  background-color: transparent;
+  border: 1.6972222328186035px solid;
+  border-color: var(--hawkes-blue);
+  border-radius: 26.31px;
+  height: 48px;
+  left: calc(50.00% - 15px);
+  position: absolute;
+  top: -1px;
+  width: 31px;
+}
+
+.index .vector-6-efu87k {
+  background-color: transparent;
+  height: 8px;
+  left: calc(50.00% - 1px);
+  position: absolute;
+  top: 8px;
+  width: 2px;
+}
+
+.index .deslize-para-saber-mais-vjMXFZ {
+  background-color: transparent;
+  color: var(--hawkes-blue);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 34px);
+  letter-spacing: 0.00px;
+  line-height: 14.4px;
+  position: absolute;
+  text-align: center;
+  top: 57px;
+  width: 75px;
+}
+
+.index .frame-8-NiAjMx {
+  align-items: flex-end;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  left: calc(50.00% - 571px);
+  position: absolute;
+  top: 660px;
+  width: 215px;
+}
+
+.index .o-nosso-protagonista-c0NNo6 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 28.8px;
+  margin-top: -0.42px;
+  position: relative;
+  text-align: right;
+}
+
+.index .sofre-de-alergia-alimentar-severa-c0NNo6 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: right;
+}
+
+.index .group-9-NiAjMx {
+  left: calc(50.00% - 340px);
+  top: 618px;
+}
+
+.index .frame-3286-NiAjMx {
+  background-color: transparent;
+  height: 556px;
+  left: calc(50.00% - 583px);
+  position: absolute;
+  top: 123px;
+  width: 410px;
+}
+
+.index .alergias-IO3Fu5 {
+  align-self: stretch;
+  background-color: var(--zircon);
+  height: 2442px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.index .as-alergias-alimenta-puAJeJ {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 571px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: 240px;
+  width: 1142px;
+}
+
+.index .span0-WoawB9 {
+}
+
+.index .span1-WoawB9 {
+}
+
+.index .span2-WoawB9 {
+}
+
+.index .group-129-puAJeJ {
+  background-color: transparent;
+  height: 216px;
+  left: calc(50.00% - 578px);
+  position: absolute;
+  top: 410px;
+  width: 570px;
+}
+
+.index .esse-processo-result-puAJeJ {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% + 8px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: 427px;
+  width: 563px;
+}
+
+.index .sobre-alergias-puAJeJ {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 571px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: auto;
+}
+
+.index .tatianaportela_https-puAJeJ {
+  aspect-ratio: 1.590909;
+  height: 360px;
+  left: calc(50.00% + 69px);
+  top: 684px;
+  width: 573px;
+}
+
+.index .tatianaportela_https-aAtYlZ {
+  aspect-ratio: 1.243671;
+  height: 352px;
+  left: calc(50.00% - 598px);
+  top: 691px;
+  width: 438px;
+}
+
+.index .o-diagnstico-das-ale-puAJeJ {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% + 105px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: 1089px;
+  width: 466px;
+}
+
+.index .span0-ovdbGf {
+}
+
+.index .span1-ovdbGf {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 700;
+}
+
+.index .span2-ovdbGf {
+}
+
+.index .span3-ovdbGf {
+}
+
+.index .a-alergia-de-forma-g-puAJeJ {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 571px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: 1095px;
+  width: 467px;
+}
+
+.index .span0-adB0bN {
+}
+
+.index .span1-adB0bN {
+}
+
+.index .ateno-s-reaes-cruzadas-puAJeJ {
+  aspect-ratio: 1.750000;
+  background-color: transparent;
+  height: 360px;
+  left: calc(50.00% - 652px);
+  object-fit: cover;
+  position: absolute;
+  top: 1499px;
+  width: 630px;
+}
+
+.index .tatianaportela_https-kV91oq {
+  aspect-ratio: 1.784314;
+  height: 356px;
+  left: calc(50.00% + 18px);
+  object-fit: cover;
+  top: 1515px;
+  width: 635px;
+}
+
+.index .a-vivncia-cotidiana-puAJeJ {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 571px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: 1914px;
+  width: 467px;
+}
+
+.index .span0-cr6aNj {
+}
+
+.index .span1-cr6aNj {
+}
+
+.index .embora-pesquisas-atu-puAJeJ {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% + 103px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: 1914px;
+  width: 465px;
+}
+
+.index .span0-GFDqph {
+}
+
+.index .span1-GFDqph {
+}
+
+.index .jogo-IO3Fu5 {
+  align-self: stretch;
+  background-color: var(--zircon);
+  height: 3351px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.index .group-9-cxvWsP {
+  left: calc(50.00% - 497px);
+  top: 436px;
+}
+
+.index .imagem-principal-2-cxvWsP {
+      aspect-ratio: 2.595825;
+    background-color: transparent;
+    height: 527px;
+    left: calc(50.00% - 679px);
+    position: absolute;
+    top: 0px;
+    width: 1359px;
+}
+
+.index .sobre-o-jogo-cxvWsP {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 571px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.index .sos-alergia-cxvWsP {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 571px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: 94px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .frame-3282-cxvWsP {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 340px;
+  left: calc(50.00% - 571px);
+  position: absolute;
+  top: 559px;
+  width: 1142px;
+}
+
+.index .sobre-este-jogo-PWJji0 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  margin-top: -0.50px;
+  position: relative;
+  text-align: left;
+}
+
+.index .david-um-jovem-com-u-PWJji0 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: relative;
+  text-align: left;
+}
+
+.index .imagem-principal-4-cxvWsP {
+  aspect-ratio: 3.492355;
+  background-color: transparent;
+  height: 327px;
+  left: calc(50.00% - 571px);
+  object-fit: cover;
+  position: absolute;
+  top: 1969px;
+  width: 1142px;
+}
+
+.index .frame-3281-cxvWsP {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: calc(50.00% - 571px);
+  position: absolute;
+  top: 1591px;
+  width: 1137px;
+}
+
+.index .jogabilidade-qXPhci {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  margin-top: -0.50px;
+  position: relative;
+  text-align: left;
+}
+
+.index .criado-no-rpg-maker-qXPhci {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: relative;
+  text-align: left;
+}
+
+.index .frame-3303-cxvWsP {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: calc(50.00% - 571px);
+  position: absolute;
+  top: 2546px;
+  width: 1142px;
+}
+
+.index .recursos-em-destaque-qlWVDd {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -0.50px;
+  position: relative;
+  text-align: left;
+}
+
+.index .frame-3302-qlWVDd {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 57px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-3300-JdsxWt {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-3274-rfCG7M {
+  align-items: center;
+  background-color: var(--sapphire);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 134px;
+  justify-content: center;
+  padding: 24px;
+  position: relative;
+  width: 370px;
+}
+
+.index .narrativa-imersiva-q-GyMy7q {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 255px;
+}
+
+.index .frame-3275-rfCG7M {
+  align-items: center;
+  background-color: var(--sapphire);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 134px;
+  justify-content: center;
+  padding: 24px;
+  position: relative;
+  width: 370px;
+}
+
+.index .mecnica-de-coleta-de-itens-dA9n7V {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 250px;
+}
+
+.index .frame-3276-rfCG7M {
+  align-items: center;
+  background-color: var(--sapphire);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 134px;
+  justify-content: center;
+  padding: 24px;
+  position: relative;
+  width: 370px;
+}
+
+.index .frame-3301-JdsxWt {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.index .frame-3277-6xBfXi {
+  align-items: center;
+  background-color: var(--sapphire);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 134px;
+  justify-content: center;
+  padding: 24px;
+  position: relative;
+  width: 370px;
+}
+
+.index .frame-3278-6xBfXi {
+  align-items: center;
+  background-color: var(--sapphire);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 134px;
+  justify-content: center;
+  padding: 24px;
+  position: relative;
+  width: 370px;
+}
+
+.index .contedo-cientfico-in-xOO3MG {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.index .group-132-cxvWsP {
+  background-color: transparent;
+  height: 289px;
+  left: calc(50.00% - 295px);
+  position: absolute;
+  top: 2977px;
+  width: 592px;
+}
+
+.index .rectangle-9-tXdPqx {
+  height: 282px;
+  left: calc(50.00% - 288px);
+  width: 568px;
+}
+
+.index .prepare-se-para-joga-tXdPqx {
+  background-color: transparent;
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: calc(50.00% - 204px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  width: 405px;
+}
+
+.index .group-cxvWsP {
+  background-color: transparent;
+  height: 612px;
+  left: calc(50.00% - 571px);
+  position: absolute;
+  top: 947px;
+  width: 1142px;
+}
+
+.index .time-IO3Fu5 {
+  height: 653px;
+}
+
+.index .group-9-jbc003 {
+  left: calc(50.00% - 497px);
+  top: 126px;
+}
+
+.index .prximos-passos-jbc003 {
+  height: auto;
+  left: calc(50.00% - 571px);
+  position: absolute;
+  text-align: left;
+  top: 50px;
+  width: auto;
+}
+
+.index .o-jogo-sos-alergia-e-jbc003 {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 574px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: 263px;
+  width: 1149px;
+}
+
+.index .sos-alergia-cinematic3d204-jbc003 {
+  aspect-ratio: 2.009050;
+  background-color: transparent;
+  height: 185px;
+  left: calc(50.00% - 571px);
+  position: absolute;
+  top: 391px;
+  width: 370px;
+}
+
+.index .sos-alergia-cinematic3d301-jbc003 {
+  aspect-ratio: 2.009050;
+  background-color: transparent;
+  height: 182px;
+  left: calc(50.00% - 185px);
+  position: absolute;
+  top: 394px;
+  width: 366px;
+}
+
+.index .sos-alergia-cinematic3d421-1-jbc003 {
+  aspect-ratio: 2.000000;
+  background-color: transparent;
+  height: 185px;
+  left: calc(50.00% + 201px);
+  position: absolute;
+  top: 391px;
+  width: 370px;
+}
+
+.index .time-865xPf {
+  height: 768px;
+}
+
+.index .group-9-8Vtmtl {
+  left: calc(50.00% - 497px);
+  top: 126px;
+}
+
+.index .desenvolvedores-8Vtmtl {
+  height: auto;
+  left: calc(50.00% - 571px);
+  position: absolute;
+  text-align: left;
+  top: 50px;
+  width: auto;
+}
+
+.index .informaes-sobre-a-equipe-8Vtmtl {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 567px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: 263px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .frame-3298-8Vtmtl {
+  
+  background-color: transparent;
+  display: inline-flex;
+  gap: 21px;
+  left: calc(50.00% - 569px);
+  position: absolute;
+  top: 341px;
+}
+
+.index .frame-3292-mKcvxA {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.index .frame-3291-LBMznH {
+  align-self: stretch;
+  background-color: transparent;
+  height: 230px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-3287-LBMznH {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bay-of-many);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.index .david-santana-lopes-bGx90z {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.index .span0-XNXlLa {
+}
+
+.index .span1-XNXlLa {
+}
+
+.index .frame-3297-mKcvxA {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 260px;
+}
+
+.index .frame-3292-EBD3mW {
+  align-self: stretch;
+  height: 230px;
+  width: 100%;
+}
+
+.index .frame-3288-EBD3mW {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bay-of-many);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.index .fernando-fbio-ferreira-freire-pKxG17 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.index .span0-7c2hPe {
+}
+
+.index .span1-7c2hPe {
+}
+
+.index .frame-3296-mKcvxA {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 340px;
+}
+
+.index .frame-3293-CBzlMk {
+  align-self: stretch;
+  background-color: transparent;
+  height: 230px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-3289-CBzlMk {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bay-of-many);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.index .omar-ezequiel-henrique-franco-zaldvar-rkxHOn {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.index .span0-gxTuYZ {
+}
+
+.index .span1-gxTuYZ {
+}
+
+.index .frame-3295-mKcvxA {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 286px;
+}
+
+.index .frame-3294-uzIQRn {
+  align-self: stretch;
+  background-color: transparent;
+  height: 230px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-3290-uzIQRn {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bay-of-many);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.index .tatiana-portela-souza-de-oliveira-aADx5o {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.index .span0-CjoaQd {
+}
+
+.index .span1-CjoaQd {
+}
+
+.index .footer-IO3Fu5 {
+  align-self: stretch;
+  background-color: #3a4aa3;
+  height: 64px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-3299-6isyAT {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  left: calc(50.00% - 575px);
+  position: relative;
+  top: 18px;
+  width: 1146px;
+}
+
+.index .logo-y8dWVb {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2px;
+  position: relative;
+}
+
+.index .frame-3272-ErqnHh {
+  background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.index .alergia-ErqnHh {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  letter-spacing: 1.28px;
+  line-height: 19.2px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .produzido-por-senai-y8dWVb {
+  align-items: center;
+  background-color: transparent;
+  color: var(--white);
+  display: flex;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.index .frame-3283-IO3Fu5 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: calc(50.00% - 563px);
+  position: absolute;
+  top: 5538px;
+  width: 1149px;
+}
+
+.index .por-que-jogar-bxzfO5 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.index .sos-alergia-vai-alm-bxzfO5 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: relative;
+  text-align: left;
+}
+
+.index .desenvolvedores {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+}
+
+.index .ellipse-18 {
+  background-color: var(--hawkes-blue);
+  border-radius: 3.39px;
+  height: 7px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 0px;
+  width: 7px;
+  animation: pulseGlow 3s ease-in-out infinite;
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    opacity: 1;
+    box-shadow: 0 0 5px var(--hawkes-blue), 0 0 10px var(--hawkes-blue), 0 0 15px var(--hawkes-blue);
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.7;
+    box-shadow: 0 0 10px var(--hawkes-blue), 0 0 20px var(--hawkes-blue), 0 0 30px var(--hawkes-blue), 0 0 40px var(--hawkes-blue);
+    transform: scale(1.1);
+  }
+}
+
+/* Text animation effects */
+.fade-in-text {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.8s ease-out;
+}
+
+.fade-in-text.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.fade-in-delayed {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.8s ease-out;
+  transition-delay: 0.2s;
+}
+
+.fade-in-delayed.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.fade-in-delayed-2 {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.8s ease-out;
+  transition-delay: 0.4s;
+}
+
+.fade-in-delayed-2.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.slide-in-left {
+  opacity: 0;
+  transform: translateX(-50px);
+  transition: all 0.8s ease-out;
+}
+
+.slide-in-left.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.slide-in-right {
+  opacity: 0;
+  transform: translateX(50px);
+  transition: all 0.8s ease-out;
+}
+
+.slide-in-right.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* Hover effects for images */
+.hover-scale-image {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.hover-scale-image:hover {
+  transform: scale(1.60);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  z-index: 99!important;
+}
+
+.index .frame-3284 {
+  background-color: transparent;
+  height: 204px;
+  left: calc(50.00% - 683px);
+  position: absolute;
+  top: -20px;
+  width: 1366px;
+}
+
+.index .frame-3292 {
+  background-color: transparent;
+  position: relative;
+}
+
+.index .group-9 {
+  background-color: transparent;
+  height: 85px;
+  position: absolute;
+  width: 7px;
+}
+
+.index .home {
+  background-color: transparent;
+  position: relative;
+}
+
+.index .prximos-passos {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+}
+
+.index .scroll {
+  background-color: transparent;
+  position: absolute;
+}
+
+.index .tatianaportela_https {
+  background-color: transparent;
+  position: absolute;
+}
+
+.index .time {
+  align-self: stretch;
+  background-color: var(--zircon);
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.index .uma-verso-demo-jogve {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.index .vector-8 {
+  background-color: transparent;
+  height: 81px;
+  left: 50.00%;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+/* screen - mobile */
+
+.mobile {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  left: 0px;
+  min-width: 412px;
+  overflow-x: hidden;
+  position: relative;
+  top: 0px;
+}
+
+.mobile .navbar-LP8vkM {
+  align-self: stretch;
+  background-color: transparent;
+  min-height: 96px;
+  overflow: visible;
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.mobile .rectangle-353-kN53na {
+  height: 96px;
+  top: 0px;
+  width: 100%;
+  position: absolute;
+  left: calc(50% - 208.5px);
+}
+
+.mobile .frame-3304-kN53na {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  margin: 31px auto 0;
+  position: relative;
+  width: 364px;
+  z-index: 10;
+}
+
+.mobile .icon-UrdKcE {
+  background-color: transparent;
+  height: 34px;
+  overflow: hidden;
+  position: relative;
+  width: 34px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+}
+
+.mobile .hamburger-line {
+  width: 20px;
+  height: 2px;
+  background-color: white;
+  transition: all 0.3s ease;
+  border-radius: 2px;
+}
+
+.mobile .hamburger-menu.active .hamburger-line:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+.mobile .hamburger-menu.active .hamburger-line:nth-child(2) {
+  opacity: 0;
+}
+
+.mobile .hamburger-menu.active .hamburger-line:nth-child(3) {
+  transform: rotate(-45deg) translate(7px, -6px);
+}
+
+.mobile .mobile-menu-dropdown {
+  background: linear-gradient(
+42deg, rgba(17, 47, 115, 1) 0%, rgba(80, 89, 188, 1) 100%), linear-gradient(0deg, rgba(217, 217, 217, 1) 0%, rgba(217, 217, 217, 1) 100%);
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+  width: 100%;
+}
+
+.mobile .mobile-menu-dropdown.open {
+  max-height: 450px;
+}
+
+.mobile .mobile-menu-content {
+  padding: 40px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.mobile .mobile-nav-link {
+  text-decoration: none;
+  color: white;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.mobile .mobile-menu-item {
+  font-family: var(--font-family-poppins);
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  transition: all 0.3s ease;
+  border-radius: 25px;
+  min-width: 200px;
+}
+
+.mobile .mobile-menu-item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  transform: scale(1.05);
+}
+
+.mobile .vector-stroke-Eqqs2S {
+  background-color: transparent;
+  height: 17px;
+  left: calc(50.00% - 13px);
+  position: absolute;
+  top: 8px;
+  width: 26px;
+}
+
+.mobile .home-LP8vkM {
+  align-self: stretch;
+  background-color: transparent;
+  height: 992px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .rectangle-353-HyDknx {
+  height: 1895px;
+  top: -95px;
+  width: 100%;
+}
+
+.mobile .group-137-HyDknx {
+  background-color: transparent;
+  height: 494px;
+  left: calc(50.00% - 182px);
+  position: absolute;
+  top: 0px;
+  width: 364px;
+}
+
+.mobile .text-HyDknx {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: calc(50.00% - 182px);
+  position: absolute;
+  top: 594px;
+  width: 364px;
+}
+
+.mobile .top-FQNYpC {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .um-jogo-srio-sobre-QeERhC {
+  background-color: transparent;
+  height: 14.729860305786133px;
+  letter-spacing: 0.48px;
+  line-height: normal;
+  margin-top: -0.49px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 218.49293518066406px;
+}
+
+.mobile .preveno-e-informao-QeERhC {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 3.20px;
+  line-height: 43.6px;
+  position: relative;
+  text-align: left;
+}
+
+.mobile .frame-3280-FQNYpC {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .button-and-link-Vhz6a2 {
+  background-color: transparent;
+  height: 63.681640625px;
+  position: relative;
+  width: 97.73494720458984px;
+}
+
+.mobile .frame-3273-94xzBX {
+  background-color: transparent;
+  height: 64px;
+  left: calc(50.00% - 49px);
+  position: relative;
+  top: 0px;
+  width: 98px;
+}
+
+.mobile .btn-KGAoTI {
+  background-color: transparent;
+  height: 48px;
+  left: calc(50.00% - 49px);
+  position: absolute;
+  top: 0px;
+  width: 98px;
+}
+
+.mobile .rectangle-9-GRQt7n {
+  height: 46px;
+  left: calc(50.00% - 47px);
+  width: 93px;
+}
+
+.mobile .pele-1-KGAoTI {
+  aspect-ratio: 0.734694;
+  background-color: transparent;
+  height: 65px;
+  left: calc(50.00% - 26px);
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.mobile .voc-aprende-se-diver-Vhz6a2 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0.8;
+  position: relative;
+  text-align: left;
+}
+
+.mobile .frame-8-HyDknx {
+  align-items: flex-end;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  left: calc(50.00% - 182px);
+  position: absolute;
+  top: 485px;
+  width: 208px;
+}
+
+.mobile .o-nosso-protagonista-mOlkjn {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+  line-height: 29.2px;
+  margin-top: -0.43px;
+  position: relative;
+  text-align: right;
+}
+
+.mobile .sofre-de-alergia-alimentar-severa-mOlkjn {
+  align-self: stretch;
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: right;
+}
+
+.mobile .group-9-HyDknx {
+  background-color: transparent;
+  height: 86px;
+  left: calc(50.00% + 34px);
+  position: absolute;
+  top: 442px;
+  width: 7px;
+}
+
+.mobile .vector-8-O6AtFR {
+  height: 82px;
+}
+
+.mobile .ellipse-18-O6AtFR {
+  border-radius: 3.44px;
+  animation: pulseGlow 3s ease-in-out infinite;
+}
+
+.mobile .alergias-LP8vkM {
+  height: 2912px;
+}
+
+.mobile .frame-3312-4ZqnGJ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: calc(50.00% - 182px);
+  position: absolute;
+  top: 131px;
+  width: 364px;
+}
+
+.mobile .frame-3313-xPKoDs {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .as-alergias-alimenta-UgEE5D {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.mobile .span0-qxOA19 {
+}
+
+.mobile .span1-qxOA19 {
+}
+
+.mobile .span2-qxOA19 {
+}
+
+.mobile .group-129-UgEE5D {
+  background-color: transparent;
+  height: 168px;
+  position: relative;
+  width: 364px;
+}
+
+.mobile .esse-processo-result-UgEE5D {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.mobile .frame-3307-xPKoDs {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 364px;
+}
+
+.mobile .tatianaportela_https-ikxLW3 {
+  aspect-ratio: 1.243671;
+  height: 267px;
+  width: 332px;
+}
+
+.mobile .a-alergia-de-forma-g-ikxLW3 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.mobile .span0-39jNFC {
+}
+
+.mobile .span1-39jNFC {
+}
+
+.mobile .frame-3308-xPKoDs {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  margin-left: -3.00px;
+  margin-right: -3.00px;
+  position: relative;
+  width: 370px;
+}
+
+.mobile .tatianaportela_https-V9pDSY {
+  align-self: stretch;
+  aspect-ratio: 1.590909;
+  width: 100%;
+}
+
+.mobile .o-diagnstico-das-ale-V9pDSY {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.mobile .span0-KUWfuA {
+}
+
+.mobile .span1-KUWfuA {
+  color: var(--bay-of-many);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 700;
+}
+
+.mobile .span2-KUWfuA {
+}
+
+.mobile .span3-KUWfuA {
+}
+
+.mobile .frame-3309-xPKoDs {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  margin-left: -3.00px;
+  margin-right: -3.00px;
+  position: relative;
+  width: 370px;
+}
+
+.mobile .ateno-s-reaes-cruzadas-1IxAe6 {
+  align-self: stretch;
+  aspect-ratio: 1.750000;
+  background-color: transparent;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .a-vivncia-cotidiana-1IxAe6 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.mobile .span0-Vm0JV4 {
+}
+
+.mobile .span1-Vm0JV4 {
+}
+
+.mobile .frame-3311-xPKoDs {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .tatianaportela_https-s2BJLT {
+  align-self: stretch;
+  aspect-ratio: 1.784314;
+  object-fit: cover;
+  width: 100%;
+}
+
+.mobile .embora-pesquisas-atu-s2BJLT {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+  width: 364px;
+}
+
+.mobile .span0-u4Sjsf {
+}
+
+.mobile .span1-u4Sjsf {
+}
+
+.mobile .jogo-LP8vkM {
+  align-self: stretch;
+  background-color: var(--zircon);
+  height: 3339px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .imagem-principal-2-RLNTa7 {
+  background-color: transparent;
+  height: 344px;
+  left: calc(50.00% - 206px);
+  position: absolute;
+  top: 0px;
+  width: 405px;
+}
+
+.mobile .sobre-o-jogo-RLNTa7 {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 182px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mobile .sos-alergia-RLNTa7 {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 182px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mobile .frame-3316-RLNTa7 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: calc(50.00% - 206px);
+  position: absolute;
+  top: 360px;
+  width: 412px;
+}
+
+.mobile .frame-3282-r1BDFE {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.mobile .sobre-este-jogo-tyYns3 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 364px;
+}
+
+.mobile .david-um-jovem-com-u-tyYns3 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+  width: 364px;
+}
+
+.mobile .frame-3314-r1BDFE {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 832px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .frame-3305-oEm4Cx {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  background-image: url(../img/frame-3305@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 0px 0px 16px 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .line-1-carRqC {
+  width: 412px;
+}
+
+.mobile .sos_2_1-1-carRqC {
+  aspect-ratio: 1.866667;
+  background-color: transparent;
+  height: 221px;
+  object-fit: cover;
+  position: relative;
+  width: 412px;
+}
+
+.mobile .frame-3281-oEm4Cx {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 364px;
+}
+
+.mobile .jogabilidade-dexxFJ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.mobile .criado-no-rpg-maker-dexxFJ {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.mobile .frame-3315-r1BDFE {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .frame-3306-QoKxA6 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-radius: 0px 0px 16px 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .line-1-HoHxPm {
+  align-self: stretch;
+  width: 100%;
+}
+
+.mobile .gemini_-generated_-i-HoHxPm {
+  background-color: transparent;
+  height: 344px;
+  position: relative;
+  width: 412px;
+}
+
+.mobile .frame-3283-QoKxA6 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 364px;
+}
+
+.mobile .por-que-jogar-usSn98 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.mobile .sos-alergia-vai-alm-usSn98 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+}
+
+.mobile .frame-3303-r1BDFE {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  position: relative;
+  width: 364px;
+}
+
+.mobile .recursos-em-destaque-k6XXm4 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.mobile .frame-3302-k6XXm4 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 275px;
+}
+
+.mobile .frame-3274-hlqTBg {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--sapphire);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 134px;
+  justify-content: center;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .narrativa-imersiva-q-jqaZ3X {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-left: -14.00px;
+  margin-right: -14.00px;
+  position: relative;
+  text-align: center;
+  width: 255px;
+}
+
+.mobile .frame-3275-hlqTBg {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--sapphire);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 134px;
+  justify-content: center;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .mecnica-de-coleta-de-itens-wGIS0u {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-left: -11.50px;
+  margin-right: -11.50px;
+  position: relative;
+  text-align: center;
+  width: 250px;
+}
+
+.mobile .frame-3276-hlqTBg {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--sapphire);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 134px;
+  justify-content: center;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .frame-3277-hlqTBg {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--sapphire);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 134px;
+  justify-content: center;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .frame-3278-hlqTBg {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--sapphire);
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  height: 134px;
+  justify-content: center;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .contedo-cientfico-in-TpIL3s {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-bottom: -16.00px;
+  margin-top: -18.00px;
+  position: relative;
+  text-align: center;
+}
+
+.mobile .group-132-r1BDFE {
+  background-color: transparent;
+  height: 178.16293334960938px;
+  position: relative;
+  width: 366px;
+}
+
+.mobile .rectangle-9-P4NxXD {
+  height: 173px;
+  left: calc(50.00% - 178px);
+  width: 349px;
+}
+
+.mobile .prepare-se-para-joga-P4NxXD {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 126px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: 250px;
+}
+
+.mobile .alergias-c2r8eh {
+  height: 1001px;
+}
+
+.mobile .o-jogo-sos-alergia-e-9naoV8 {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 182px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 148px;
+  width: 364px;
+}
+
+.mobile .frame-3326-9naoV8 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 18px;
+  justify-content: flex-end;
+  left: calc(50.00% - 182px);
+  position: absolute;
+  top: 388px;
+}
+
+.mobile .sos-alergia-cinematic3d204-w9lp66 {
+  aspect-ratio: 2.009050;
+  background-color: transparent;
+  height: 181.1796875px;
+  position: relative;
+  width: 364px;
+}
+
+.mobile .sos-alergia-cinematic3d301-w9lp66 {
+  aspect-ratio: 2.009050;
+  background-color: transparent;
+  height: 179.2216796875px;
+  position: relative;
+  width: 360.06494140625px;
+}
+
+.mobile .sos-alergia-cinematic3d421-1-w9lp66 {
+  aspect-ratio: 2.000000;
+  background-color: transparent;
+  height: 182px;
+  position: relative;
+  width: 364px;
+}
+
+.mobile .time-LP8vkM {
+  align-self: stretch;
+  background-color: var(--zircon);
+  height: 1411px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .desenvolvedores-EBJ9cT {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 182px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mobile .frame-3317-EBJ9cT {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: calc(50.00% - 187px);
+  position: absolute;
+  top: 131px;
+  width: 364px;
+}
+
+.mobile .informaes-sobre-a-equipe-eq7TJ1 {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -0.50px;
+  position: relative;
+  text-align: left;
+}
+
+.mobile .frame-3298-eq7TJ1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .frame-3292-uxGYO5 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.mobile .frame-3291-afx4NY {
+  align-self: stretch;
+  background-color: transparent;
+  height: 230px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .frame-3287-afx4NY {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bay-of-many);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .david-santana-lopes-P7yHKo {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.mobile .span0-5vPZRO {
+}
+
+.mobile .span1-5vPZRO {
+}
+
+.mobile .frame-3297-uxGYO5 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .frame-3292-KBeWYV {
+  height: 230px;
+}
+
+.mobile .frame-3288-KBeWYV {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bay-of-many);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .fernando-fbio-ferreira-freire-HxuDul {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.mobile .span0-w2vJxH {
+}
+
+.mobile .span1-w2vJxH {
+}
+
+.mobile .frame-3296-uxGYO5 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .frame-3293-46PWBu {
+  align-self: stretch;
+  background-color: transparent;
+  height: 230px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .frame-3289-46PWBu {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bay-of-many);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .omar-ezequiel-henrique-franco-zaldvar-bNCklK {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.mobile .span0-FvZsQ0 {
+}
+
+.mobile .span1-FvZsQ0 {
+}
+
+.mobile .frame-3295-uxGYO5 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .frame-3294-IxVWOD {
+  align-self: stretch;
+  background-color: transparent;
+  height: 230px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .frame-3290-IxVWOD {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--bay-of-many);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .tatiana-portela-souza-de-oliveira-XJ2OEZ {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.mobile .span0-5ntdBb {
+}
+
+.mobile .span1-5ntdBb {
+}
+
+.mobile .footer-LP8vkM {
+  align-self: stretch;
+  background-color: #3a4aa3;
+  height: 96px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .frame-3299-N06ZOS {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: calc(50.00% - 182px);
+  position: relative;
+  top: 17px;
+  width: 364px;
+}
+
+.mobile .produzido-por-senai-rbU47p {
+  align-items: center;
+  background-color: transparent;
+  color: var(--white);
+  display: flex;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.mobile .group-131-LP8vkM {
+  background-color: transparent;
+  height: 85px;
+  left: calc(50.00% + 177px);
+  position: absolute;
+  top: 2056px;
+  width: 7px;
+}
+
+.mobile .vector-8-FfJ0IM {
+  height: 81px;
+}
+
+.mobile .ellipse-18-FfJ0IM {
+  border-radius: 3.39px;
+  animation: pulseGlow 3s ease-in-out infinite;
+}
+
+.mobile .alergia {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  letter-spacing: 1.28px;
+  line-height: 19.2px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mobile .alergias {
+  align-self: stretch;
+  background-color: var(--zircon);
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .ellipse-18 {
+  background-color: var(--hawkes-blue);
+  height: 7px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 0px;
+  width: 7px;
+  animation: pulseGlow 3s ease-in-out infinite;
+}
+
+.mobile .frame-3272 {
+  background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.mobile .frame-3284 {
+  background-color: transparent;
+  height: 115px;
+  left: calc(50.00% - 206px);
+  position: absolute;
+  top: 0px;
+  width: 405px;
+}
+
+.mobile .frame-3292 {
+  align-self: stretch;
+  background-color: transparent;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .line-1 {
+  background-color: transparent;
+  height: 2px;
+  margin-top: -2.00px;
+  position: relative;
+}
+
+.mobile .logo {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2px;
+  position: relative;
+}
+
+.mobile .rectangle-353 {
+  background: linear-gradient(148deg, rgba(17, 47, 115, 1) 0%, rgba(80, 89, 188, 1) 100%), linear-gradient(0deg, rgba(217, 217, 217, 1) 0%, rgba(217, 217, 217, 1) 100%);
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+}
+
+.mobile .sobre-alergias {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 182px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mobile .tatianaportela_https {
+  background-color: transparent;
+  position: relative;
+}
+
+.mobile .uma-verso-demo-jogve {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-bottom: -4.00px;
+  margin-top: -6.00px;
+  position: relative;
+  text-align: center;
+}
+
+.mobile .vector-8 {
+  background-color: transparent;
+  left: 50.00%;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+@media screen and (max-width: 768px) {
+  .screen.index { 
+    display: none;
+   }
+}
+@media screen and (min-width: 769px) {
+  .screen.mobile { 
+    display: none;
+   }
+}
